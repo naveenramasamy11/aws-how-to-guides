@@ -10,6 +10,7 @@
 | Module | Topics Covered | Difficulty |
 |--------|---------------|------------|
 | [IAM](./IAM/README.md) | Users, Groups, Roles, Policies, Cross-Account, Permission Boundaries, ABAC | 🟢 Beginner → 🔴 Advanced |
+| [VPC](./VPC/README.md) | Subnets, Route Tables, Security Groups, NACLs, NAT GW, Peering, Endpoints, Transit Gateway | 🟢 Beginner → 🔴 Advanced |
 
 > More modules coming soon: VPC, EC2, S3, EKS, Lambda, Organizations, etc.
 
