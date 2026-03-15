@@ -7,12 +7,15 @@
 
 ## 📚 Modules
 
+### ☁️ Core Infrastructure
+
 | Module | Topics Covered | Difficulty |
 |--------|---------------|------------|
 | [IAM](./IAM/README.md) | Users, Groups, Roles, Policies, Cross-Account, Permission Boundaries, ABAC | 🟢 Beginner → 🔴 Advanced |
 | [VPC](./VPC/README.md) | Subnets, Route Tables, Security Groups, NACLs, NAT GW, Peering, Endpoints, Transit Gateway | 🟢 Beginner → 🔴 Advanced |
+| [EC2](./EC2/README.md) | Instance types, Launch Templates, ASG, EBS, AMI baking, SSM, ALB pipeline, CloudWatch, cost optimisation | 🟢 Beginner → 🔴 Advanced |
 
-> More modules coming soon: VPC, EC2, S3, EKS, Lambda, Organizations, etc.
+> More modules coming soon: S3, RDS, EKS, Lambda, Organizations, etc.
 
 ---
 
