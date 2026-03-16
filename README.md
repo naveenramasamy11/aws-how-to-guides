@@ -14,8 +14,9 @@
 | [IAM](./IAM/README.md) | Users, Groups, Roles, Policies, Cross-Account, Permission Boundaries, ABAC | 🟢 Beginner → 🔴 Advanced |
 | [VPC](./VPC/README.md) | Subnets, Route Tables, Security Groups, NACLs, NAT GW, Peering, Endpoints, Transit Gateway | 🟢 Beginner → 🔴 Advanced |
 | [EC2](./EC2/README.md) | Instance types, Launch Templates, ASG, EBS, AMI baking, SSM, ALB pipeline, CloudWatch, cost optimisation | 🟢 Beginner → 🔴 Advanced |
+| [S3](./S3/README.md) | Buckets, storage classes, lifecycle rules, encryption (SSE-S3/KMS/C), versioning, CRR, Object Lock, S3 Select, event-driven pipelines | 🟢 Beginner → 🔴 Advanced |
 
-> More modules coming soon: S3, RDS, EKS, Lambda, Organizations, etc.
+> More modules coming soon: RDS, EKS, Lambda, Organizations, etc.
 
 ---
 
