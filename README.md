@@ -17,6 +17,7 @@
 | [S3](./S3/README.md) | Buckets, storage classes, lifecycle rules, encryption (SSE-S3/KMS/C), versioning, CRR, Object Lock, S3 Select, event-driven pipelines | 🟢 Beginner → 🔴 Advanced |
 | [RDS](./RDS/README.md) | DB engines, Multi-AZ, Read Replicas, RDS Proxy, KMS encryption, IAM DB auth, backups/PITR, Blue/Green deployments, CloudWatch alarms, production runbooks | 🟢 Beginner → 🔴 Advanced |
 | [EKS](./EKS/README.md) | Cluster creation, managed node groups, Deployments, Ingress/ALB, IRSA, RBAC, HPA, Cluster Autoscaler, EBS/EFS CSI, Container Insights, cluster upgrades | 🟢 Beginner → 🔴 Advanced |
+| [ECS](./ECS/README.md) | Clusters, Task Definitions, Fargate services, ALB integration, rolling & Blue/Green deployments, auto scaling, IAM task roles, Secrets Manager, ECR CI/CD, Container Insights, FARGATE_SPOT cost optimisation | 🟢 Beginner → 🔴 Advanced |
 
 > More modules coming soon: Lambda, Organizations, CloudFormation, Bedrock, etc.
 
