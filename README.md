@@ -18,8 +18,9 @@
 | [RDS](./RDS/README.md) | DB engines, Multi-AZ, Read Replicas, RDS Proxy, KMS encryption, IAM DB auth, backups/PITR, Blue/Green deployments, CloudWatch alarms, production runbooks | 🟢 Beginner → 🔴 Advanced |
 | [EKS](./EKS/README.md) | Cluster creation, managed node groups, Deployments, Ingress/ALB, IRSA, RBAC, HPA, Cluster Autoscaler, EBS/EFS CSI, Container Insights, cluster upgrades | 🟢 Beginner → 🔴 Advanced |
 | [ECS](./ECS/README.md) | Clusters, Task Definitions, Fargate services, ALB integration, rolling & Blue/Green deployments, auto scaling, IAM task roles, Secrets Manager, ECR CI/CD, Container Insights, FARGATE_SPOT cost optimisation | 🟢 Beginner → 🔴 Advanced |
+| [Lambda](./Lambda/README.md) | Function lifecycle, cold/warm starts, S3/SQS/API GW/EventBridge triggers, Layers, env vars, concurrency controls, VPC placement, ETL pipeline pattern, structured logging, X-Ray tracing, arm64 cost optimisation | 🟢 Beginner → 🔴 Advanced |
 
-> More modules coming soon: Lambda, Organizations, CloudFormation, Bedrock, etc.
+> More modules coming soon: CloudFormation, Organizations, Bedrock, etc.
 
 ---
 
